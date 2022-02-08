@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assingment3-React/static/css/main.f4911ca1.css",
+    "main.js": "/Assingment3-React/static/js/main.55448af4.js",
+    "static/js/787.83d15537.chunk.js": "/Assingment3-React/static/js/787.83d15537.chunk.js",
+    "index.html": "/Assingment3-React/index.html",
+    "main.f4911ca1.css.map": "/Assingment3-React/static/css/main.f4911ca1.css.map",
+    "main.55448af4.js.map": "/Assingment3-React/static/js/main.55448af4.js.map",
+    "787.83d15537.chunk.js.map": "/Assingment3-React/static/js/787.83d15537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4911ca1.css",
+    "static/js/main.55448af4.js"
+  ]
+}
